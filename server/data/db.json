@@ -1,0 +1,243 @@
+{
+  "users": [
+    {
+      "id": "zLTQsyud0vc1CfYMvuuNR",
+      "name": "Test",
+      "email": "t1@example.com",
+      "password": "$2a$10$2ImKXW/G/GO8LFjbnZjxs.gNRXONJgGt1kkACvzswXMlzkfAf3Qry",
+      "role": "user"
+    },
+    {
+      "id": "1x83CYzJktuoWojmjaBDP",
+      "name": "abcdef",
+      "email": "abc@example.com",
+      "password": "$2a$10$FC5J79redlib0XeB5Ecqlu0zhO3Cix5VIjuJkPb1bLgc3r/H206ay",
+      "role": "user"
+    }
+  ],
+  "items": [
+    {
+      "id": "EnsLz8FQLY-rApn7PLkKS",
+      "title": "Sample Item 1",
+      "category": "Electronics",
+      "price": 221,
+      "image": "https://picsum.photos/seed/sample0/600/400",
+      "description": "A great product for demo purposes."
+    },
+    {
+      "id": "EA60pbP9ujda8c14s7G0k",
+      "title": "Sample Item 2",
+      "category": "Books",
+      "price": 387,
+      "image": "https://picsum.photos/seed/sample1/600/400",
+      "description": "A great product for demo purposes."
+    },
+    {
+      "id": "t6bwrOygT9udI22SPkaF-",
+      "title": "Sample Item 3",
+      "category": "Fashion",
+      "price": 376,
+      "image": "https://picsum.photos/seed/sample2/600/400",
+      "description": "A great product for demo purposes."
+    },
+    {
+      "id": "0GjhGqfg744ZmDHOtjtCW",
+      "title": "Sample Item 4",
+      "category": "Home",
+      "price": 771,
+      "image": "https://picsum.photos/seed/sample3/600/400",
+      "description": "A great product for demo purposes."
+    },
+    {
+      "id": "RySGraW75h19doA4LCsy5",
+      "title": "Sample Item 5",
+      "category": "Sports",
+      "price": 874,
+      "image": "https://picsum.photos/seed/sample4/600/400",
+      "description": "A great product for demo purposes."
+    },
+    {
+      "id": "JdIy8EYmiiyXVQ0879Fli",
+      "title": "Sample Item 6",
+      "category": "Electronics",
+      "price": 849,
+      "image": "https://picsum.photos/seed/sample5/600/400",
+      "description": "A great product for demo purposes."
+    },
+    {
+      "id": "Wm1MCzqVvsjgB5rh6HF2U",
+      "title": "Sample Item 7",
+      "category": "Books",
+      "price": 187,
+      "image": "https://picsum.photos/seed/sample6/600/400",
+      "description": "A great product for demo purposes."
+    },
+    {
+      "id": "_hLUuJnXygSkFfs8jpSIw",
+      "title": "Sample Item 8",
+      "category": "Fashion",
+      "price": 404,
+      "image": "https://picsum.photos/seed/sample7/600/400",
+      "description": "A great product for demo purposes."
+    },
+    {
+      "id": "_GCxRLCoSc0i_PVz7UJxt",
+      "title": "Sample Item 9",
+      "category": "Home",
+      "price": 439,
+      "image": "https://picsum.photos/seed/sample8/600/400",
+      "description": "A great product for demo purposes."
+    },
+    {
+      "id": "HAY5ncgjHj29INYBbvREv",
+      "title": "Sample Item 10",
+      "category": "Sports",
+      "price": 241,
+      "image": "https://picsum.photos/seed/sample9/600/400",
+      "description": "A great product for demo purposes."
+    },
+    {
+      "id": "s1zZggTSUuBf765F42K8E",
+      "title": "Sample Item 11",
+      "category": "Electronics",
+      "price": 775,
+      "image": "https://picsum.photos/seed/sample10/600/400",
+      "description": "A great product for demo purposes."
+    },
+    {
+      "id": "oahxNcLYqRNGpMQLmbkCt",
+      "title": "Sample Item 12",
+      "category": "Books",
+      "price": 867,
+      "image": "https://picsum.photos/seed/sample11/600/400",
+      "description": "A great product for demo purposes."
+    },
+    {
+      "id": "A9CYuMSVgNF1kwTln-Cyh",
+      "title": "Sample Item 13",
+      "category": "Fashion",
+      "price": 596,
+      "image": "https://picsum.photos/seed/sample12/600/400",
+      "description": "A great product for demo purposes."
+    },
+    {
+      "id": "Tt9QSdJvYFuQ025KHi1_C",
+      "title": "Sample Item 14",
+      "category": "Home",
+      "price": 877,
+      "image": "https://picsum.photos/seed/sample13/600/400",
+      "description": "A great product for demo purposes."
+    },
+    {
+      "id": "sJDUxn8c9dc8BhizNB2vj",
+      "title": "Sample Item 15",
+      "category": "Sports",
+      "price": 744,
+      "image": "https://picsum.photos/seed/sample14/600/400",
+      "description": "A great product for demo purposes."
+    },
+    {
+      "id": "jn6XjlW27JsfPrp7QZBDa",
+      "title": "Sample Item 16",
+      "category": "Electronics",
+      "price": 984,
+      "image": "https://picsum.photos/seed/sample15/600/400",
+      "description": "A great product for demo purposes."
+    },
+    {
+      "id": "MNMRAIMZirHBf0luDhKJH",
+      "title": "Sample Item 17",
+      "category": "Books",
+      "price": 962,
+      "image": "https://picsum.photos/seed/sample16/600/400",
+      "description": "A great product for demo purposes."
+    },
+    {
+      "id": "X-xbowAqlquaXExO5tCim",
+      "title": "Sample Item 18",
+      "category": "Fashion",
+      "price": 877,
+      "image": "https://picsum.photos/seed/sample17/600/400",
+      "description": "A great product for demo purposes."
+    },
+    {
+      "id": "lSIfZN7cE0Fqf3nPUXO3Q",
+      "title": "Sample Item 19",
+      "category": "Home",
+      "price": 445,
+      "image": "https://picsum.photos/seed/sample18/600/400",
+      "description": "A great product for demo purposes."
+    },
+    {
+      "id": "_GxAgZVQ01Z-AcZX-JPR_",
+      "title": "Sample Item 20",
+      "category": "Sports",
+      "price": 921,
+      "image": "https://picsum.photos/seed/sample19/600/400",
+      "description": "A great product for demo purposes."
+    },
+    {
+      "id": "FcPsDvpNB0W8y5WoGqAtQ",
+      "title": "Sample Item 21",
+      "category": "Electronics",
+      "price": 464,
+      "image": "https://picsum.photos/seed/sample20/600/400",
+      "description": "A great product for demo purposes."
+    },
+    {
+      "id": "EjFx0JrwDIAQW9-4uiCXx",
+      "title": "Sample Item 22",
+      "category": "Books",
+      "price": 153,
+      "image": "https://picsum.photos/seed/sample21/600/400",
+      "description": "A great product for demo purposes."
+    },
+    {
+      "id": "kaaR-Iq1UY-6avN5sODlV",
+      "title": "Sample Item 23",
+      "category": "Fashion",
+      "price": 485,
+      "image": "https://picsum.photos/seed/sample22/600/400",
+      "description": "A great product for demo purposes."
+    },
+    {
+      "id": "7xrUZG2B7fYqb4hLjtRpD",
+      "title": "Sample Item 24",
+      "category": "Home",
+      "price": 295,
+      "image": "https://picsum.photos/seed/sample23/600/400",
+      "description": "A great product for demo purposes."
+    }
+  ],
+  "carts": [
+    {
+      "userId": "1x83CYzJktuoWojmjaBDP",
+      "items": [
+        {
+          "itemId": "0GjhGqfg744ZmDHOtjtCW",
+          "qty": 3
+        },
+        {
+          "itemId": "HAY5ncgjHj29INYBbvREv",
+          "qty": 1
+        },
+        {
+          "itemId": "JdIy8EYmiiyXVQ0879Fli",
+          "qty": 3
+        },
+        {
+          "itemId": "EnsLz8FQLY-rApn7PLkKS",
+          "qty": 3
+        },
+        {
+          "itemId": "EA60pbP9ujda8c14s7G0k",
+          "qty": 1
+        },
+        {
+          "itemId": "t6bwrOygT9udI22SPkaF-",
+          "qty": 1
+        }
+      ]
+    }
+  ]
+}
